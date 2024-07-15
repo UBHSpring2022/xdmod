@@ -42,7 +42,7 @@ The Cloud realm in Open XDMoD tracks events that occur in cloud infrastructure s
 - VM Size: Memory
   - A categorization of VM's into discrete groups based on the amount of memory reserved by each VM.
 - VM State
-  - A categorization of VM's based on their state, ex. Active, Inactve, etc.
+  - A categorization of VM's based on their state, ex. Active, Inactive, etc.
 - Domain
   - A domain is a high-level container for projects, users and groups in Open Stack.
 - Submission Venue
